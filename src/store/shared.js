@@ -1,6 +1,6 @@
 export default {
   state: {
-    personalAPIKey: '52217232f795bbefbb1b7c951aae98ad',
+    personalAPIKey: 'e01ffe1c66cbb475893aa1494a0e6834',
     currentPage: 1,
     searchQuery: '',
     isLoading: null,
